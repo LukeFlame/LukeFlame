@@ -3,9 +3,9 @@
 💡 &nbsp;Gosto de explorar novas tecnologias web e soluções em software.\
 🎓 &nbsp;Atualmente estou cursando o 3º período de Sistemas de Informação.\
 🤖 &nbsp;Comecei no mundo do desenvolvimento através de bots no Discord.\
-🌱 &nbsp;Estou no momento aprendendo mais sobre front-end, soluções com banco de dados e desenvolvimento de jogos.\
+🌱 &nbsp;Estou no momento aprendendo sobre front-end, banco de dados e criação de jogos.
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
