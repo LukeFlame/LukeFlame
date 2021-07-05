@@ -3,7 +3,7 @@
 💡 &nbsp;Gosto de explorar novas tecnologias web e soluções em software.\
 🎓 &nbsp;Atualmente estou cursando o 4º período de Sistemas de Informação.\
 🤖 &nbsp;Comecei no mundo do desenvolvimento através de bots no Discord e sites simples.\
-🌱 &nbsp;Estou no momento aprendendo sobre desenvolvimento web fullstack com Javacript, banco de dados e criação de jogos.
+🌱 &nbsp;Estou no momento aprendendo sobre desenvolvimento Web Full Stack com Javacript, banco de dados e criação de jogos.
 
 ### 🛠 &nbsp;Tecnologias e conhecimentos
 
