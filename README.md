@@ -1,39 +1,86 @@
-### 👨🏻‍💻 &nbsp;Sobre mim
+<div align="center">
+    <img src="https://i.imgur.com/zcMajaa.png" align="center" style="width: 100%" />
+</div>  
 
-💡 &nbsp;Gosto de explorar novas tecnologias web e soluções em software.\
-🎓 &nbsp;Atualmente estou cursando o 4º período de Sistemas de Informação.\
-🤖 &nbsp;Comecei no mundo do desenvolvimento através de bots no Discord e sites simples.\
-🌱 &nbsp;Estou no momento aprendendo sobre desenvolvimento Web Full Stack com Javacript, banco de dados e criação de jogos.
+<br />
 
-### 🛠 &nbsp;Tecnologias e conhecimentos
+### <div align="center">Também conhecido como LukeFl_ 🔥, sou um desenvolvedor web front-end dos brabos. 😎</div>  
+  
+<br />
 
-<div>
-  <h6>Front-end</h6>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+- 🔭 Atualmente trabalhando como **Freelancer** e em busca de uma nova oportunidade profissional.  
+
+- ⭐ Meu principal objetivo é criar experiências únicas no ambiente web.
+
+<br/>
+
+---
+
+<br/>
+<img
+    src="https://i.imgur.com/GAcQIWM.png"
+    align="center"
+    style="width: 240px;float: right;margin-left: 20px;margin-top: 12px;"
+/>
+
+Me chamo Marcos Vinicius, porém utilizo o nickname **LukeFl_** e o fogo como símbolo de paixão pelo que faço e sempre farei.
+
+Introduzido no mundo da tecnologia desde cedo através de jogos como Minecraft e CSGO, curto muito criar experiências brabas, que causam impacto ou deixam uma marca.
+
+Estou cursando Sistemas de Informação na UNIP e estudando as mais diversas tecnologias na internet.
+
+<br/>
+
+---
+
+<br/>
+<img
+    src="https://i.imgur.com/Q6GnNLd.png"
+    align="center"
+    style="width: 240px;float: left;margin-right: 20px;margin-top: 12px;"
+/>
+
+A seguir, alguns dos projetos que fiz e que merecem destaque:
+
+<br/>
+
+[**WorldPlugins**](https://worldplugins.com)
+
+Loja de plugins para Minecraft, contendo informações dos criadores, clientes parceiros, catálogo de produtos, páginas dinâmicas de produto, carrinho e checkout de produtos com MercadoPago e Paypal, além de um portal para clientes com autenticação e diversas outras funcionalidades.
+
+Feito inteiramente com NextJs, MongoDb e Strapi CMS.
+
+<br/>
+
+[**Poeira Cósmica**](https://poeiracosmica.com)
+
+Site feito para uma comunidade de Discord chamada Poeira Cósmica. Lá é possível ver informações da comunidade, rankings, links úteis, dentre outros.
+
+Feito em NextJs e MongoDb.
+
+<br/>
+
+---
+
+<br/>
+<img
+    src="https://i.imgur.com/IyEwPHH.png"
+    align="center"
+    style="width: 100%;margin-top: 12px;margin-bottom: 24px;"
+/>
+
+<div align="center">
+<a href="https://github.com/LukeFlame" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-left: 5px;margin-right: 5px;" />
+</a>
+<a href="https://twitter.com/LukeFl_" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-left: 5px;margin-right: 5px;" />
+</a>
+<a href="https://linkedin.com/in/lukeflame" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: 5px;margin-right: 5px;" />
+</a>  
+
+<br />
+
+Entre em contato e lhe responderei de bom grado. Agradeço por ter lido até aqui!
 </div>
-
-<div>
-  <h6>Back-end/Database/Hosting</h6>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="Strapi" src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</div>
-
-<div>
- <h6>Softwares</h6>
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
- <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</div>
-
-
-
-
-
