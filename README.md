@@ -19,7 +19,7 @@
 <br/>
 <img
     src="https://i.imgur.com/GAcQIWM.png"
-    align="center"
+    align="right"
     style="width: 240px;float: right;margin-left: 20px;margin-top: 12px;"
 />
 
@@ -36,7 +36,7 @@ Estou cursando Sistemas de Informação na UNIP e estudando as mais diversas tec
 <br/>
 <img
     src="https://i.imgur.com/Q6GnNLd.png"
-    align="center"
+    align="left"
     style="width: 240px;float: left;margin-right: 20px;margin-top: 12px;"
 />
 
@@ -80,6 +80,7 @@ Feito em NextJs e MongoDb.
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-left: 5px;margin-right: 5px;" />
 </a>  
 
+<br />
 <br />
 
 Entre em contato e lhe responderei de bom grado. Agradeço por ter lido até aqui!
