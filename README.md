@@ -44,7 +44,7 @@ A seguir, alguns dos projetos que fiz e que merecem destaque:
 
 <br/>
 
-[**WorldPlugins**](https://worldplugins.com)
+[**WorldPlugins**](https://worldplugins.vercel.app)
 
 Loja de plugins para Minecraft, contendo informações dos criadores, clientes parceiros, catálogo de produtos, páginas dinâmicas de produto, carrinho e checkout de produtos com MercadoPago e Paypal, além de um portal para clientes com autenticação e diversas outras funcionalidades.
 
@@ -55,6 +55,14 @@ Feito inteiramente com NextJs, MongoDb e Strapi CMS.
 [**Poeira Cósmica**](https://poeiracosmica.com)
 
 Site feito para uma comunidade de Discord chamada Poeira Cósmica. Lá é possível ver informações da comunidade, rankings, links úteis, dentre outros.
+
+Feito em NextJs e MongoDb.
+
+<br/>
+
+[**Incógnita**](https://incognita.live)
+
+O Incógnita é um bot de Discord que permite o envio de mensagens anônimas. Já está presente em milhares de servidores.
 
 Feito em NextJs e MongoDb.
 
